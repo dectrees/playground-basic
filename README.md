@@ -1,1 +1,1 @@
-a local babylonjs playground with an asymmetrical object and pointer handler for playing. enjoy
+a basic local babylonjs playground with nothing but a ground and a colorful box. enjoy your play

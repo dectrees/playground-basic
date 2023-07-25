@@ -1,2 +1,1 @@
-a local babylonjs playground.
-replace the createScene method to play.
+a local babylonjs playground with an asymmetrical object and pointer handler for playing. enjoy
